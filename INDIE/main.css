@@ -14,9 +14,14 @@ body {
     margin-left: 40em;
     text-align: center;
 }
+}
+#Title {
+    margin-left: 40em;
+    text-align: center;
+}
 #Main h1 {
     text-align: center;
-    color: rgb(38, 103, 22);
+    color: rgb(255, 255, 255);
 }
 #Main h2 {
     text-align: center;
