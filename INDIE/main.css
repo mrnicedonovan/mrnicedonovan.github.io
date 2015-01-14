@@ -1,0 +1,37 @@
+body {
+    background-image: url(BG.jpg);
+    background-color: #226013;
+}
+#Main {
+    font-family: 'Architects Daughter', cursive;
+    color: #8fd206;
+    display: block;
+    width: 60em;
+    margin-left: auto;
+    margin-right: auto;
+}
+#Main p {
+    margin-left: 40em;
+    text-align: center;
+}
+#Main h1 {
+    text-align: center;
+    color: rgb(119, 255, 86);
+}
+footer {
+    color: white;
+}
+footer p {} #Extra {
+    margin-left: auto;
+}
+#Facts {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color:rgba(111, 101, 66, 0.7);
+    color: #85ca00;
+    width: 60em;
+    margin-left: auto;
+    margin-right: auto;
+}
+#fadeDiv {
+    display: none;
+}
