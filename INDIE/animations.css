@@ -9,11 +9,11 @@ slideDown
 	animation-name: slideDown;
 	-webkit-animation-name: slideDown;	
 
-	animation-duration: 3.5s;	
-	-webkit-animation-duration: 3.5s;
+	animation-duration: 2.5s;
+	-webkit-animation-duration: 2.5s;
 
 	animation-timing-function: ease;	
-	-webkit-animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;
 
 	visibility: visible !important;						
 }
@@ -71,8 +71,8 @@ slideUp
 	animation-name: slideUp;
 	-webkit-animation-name: slideUp;	
 
-	animation-duration: 3.5s;	
-	-webkit-animation-duration: 3.5s;
+	animation-duration: 2s;	
+	-webkit-animation-duration: 2s;
 
 	animation-timing-function: ease;	
 	-webkit-animation-timing-function: ease;

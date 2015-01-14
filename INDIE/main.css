@@ -1,6 +1,8 @@
 body {
     background-image: url(BG.jpg);
+    background-size: cover;
     background-color: #226013;
+    overflow:hidden;
 }
 #Main {
     font-family: 'Architects Daughter', cursive;
@@ -14,9 +16,8 @@ body {
     margin-left: 40em;
     text-align: center;
 }
-}
+
 #Title {
-    margin-left: 40em;
     text-align: center;
 }
 #Main h1 {
@@ -28,6 +29,7 @@ body {
     color: rgb(255, 255, 255);
 }
 footer {
+    margin-top: 28em;
     color: white;
 }
 footer p {} #Extra {
@@ -40,6 +42,9 @@ footer p {} #Extra {
     width: 60em;
     margin-left: auto;
     margin-right: auto;
+}
+#Facts h2 {
+    text-align: center;
 }
 #fadeDiv {
     display: none;
