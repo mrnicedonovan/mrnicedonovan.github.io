@@ -1,18 +1,4 @@
-/*
-==============================================
-CSS3 ANIMATION CHEAT SHEET
-==============================================
 
-Made by Justin Aguilar
-
-www.justinaguilar.com/animations/
-
-Questions, comments, concerns, love letters:
-justin@justinaguilar.com
-==============================================
-*/
-
-/*
 ==============================================
 slideDown
 ==============================================
@@ -23,8 +9,8 @@ slideDown
 	animation-name: slideDown;
 	-webkit-animation-name: slideDown;	
 
-	animation-duration: 1s;	
-	-webkit-animation-duration: 1s;
+	animation-duration: 5s;	
+	-webkit-animation-duration: 5s;
 
 	animation-timing-function: ease;	
 	-webkit-animation-timing-function: ease;	
@@ -85,8 +71,8 @@ slideUp
 	animation-name: slideUp;
 	-webkit-animation-name: slideUp;	
 
-	animation-duration: 1s;	
-	-webkit-animation-duration: 1s;
+	animation-duration: 5s;	
+	-webkit-animation-duration: 5s;
 
 	animation-timing-function: ease;	
 	-webkit-animation-timing-function: ease;
