@@ -1,5 +1,5 @@
 fadeInPage.speed = 25;
-fadeInPage.bg = '#fff';
+fadeInPage.bg = '#9eb58a';
 
 function fadeInPage() {
     var el = document.getElementById("fadeDiv");
