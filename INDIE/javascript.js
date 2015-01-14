@@ -1,4 +1,4 @@
-fadeInPage.speed = 35;
+fadeInPage.speed = 25;
 fadeInPage.bg = '#fff';
 
 function fadeInPage() {
