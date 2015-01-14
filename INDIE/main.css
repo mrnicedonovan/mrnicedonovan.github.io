@@ -16,7 +16,11 @@ body {
 }
 #Main h1 {
     text-align: center;
-    color: rgb(119, 255, 86);
+    color: rgb(38, 103, 22);
+}
+#Main h2 {
+    text-align: center;
+    color: rgb(255, 255, 255);
 }
 footer {
     color: white;
@@ -27,7 +31,7 @@ footer p {} #Extra {
 #Facts {
     font-family: 'Josefin Sans', sans-serif;
     background-color:rgba(111, 101, 66, 0.7);
-    color: #85ca00;
+    color: #fff;
     width: 60em;
     margin-left: auto;
     margin-right: auto;
