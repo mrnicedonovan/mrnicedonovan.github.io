@@ -5,15 +5,15 @@ body {
     overflow:hidden;
 }
 #Main {
-    font-family: 'Architects Daughter', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
     color: #8fd206;
     display: block;
     width: 60em;
     margin-left: auto;
     margin-right: auto;
 }
-#Main p {
-    margin-left: 40em;
+#Main p, h1 {
     text-align: center;
 }
 
@@ -29,7 +29,7 @@ body {
     color: rgb(255, 255, 255);
 }
 footer {
-    margin-top: 28em;
+    margin-top: 26em;
     color: white;
 }
 footer p {} #Extra {
@@ -48,4 +48,8 @@ footer p {} #Extra {
 }
 #fadeDiv {
     display: none;
+}
+
+#Buttons {
+    margin-left: 49em;
 }
