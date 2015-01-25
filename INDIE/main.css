@@ -7,14 +7,17 @@ body {
 #Main {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 15px;
-    color: #8fd206;
+    color: #fff;
     display: block;
     width: 60em;
     margin-left: auto;
     margin-right: auto;
 }
-#Main p, h1 {
+#Main p, h1, h2, h3 {
     text-align: center;
+}
+#Main p {
+    font-size: large;
 }
 
 #Title {
@@ -31,6 +34,7 @@ body {
 footer {
     margin-top: 26em;
     color: white;
+    text-align: center;
 }
 footer p {} #Extra {
     margin-left: auto;
@@ -52,4 +56,8 @@ footer p {} #Extra {
 
 #Buttons {
     margin-left: 49em;
+}
+
+.link {
+    margin-left: 10em;
 }

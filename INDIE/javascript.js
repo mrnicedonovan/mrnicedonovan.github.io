@@ -28,3 +28,4 @@ if (window.addEventListener && fadeInPage.prprt) {
     fadeInPage.set();
     window.addEventListener('load', fadeInPage, false);
 }
+
