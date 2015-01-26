@@ -34,7 +34,7 @@ window.addEventListener("load",function(){
     var ctx = canvas.getContext("2d");
     
     var image = new Image();
-    image.src = "Tanks_sheetss.png";
+    image.src = "Tanks_sheetssss.png";
     
     var numberOnRow = 9;
     var numberOnColumn = 3;
@@ -47,7 +47,7 @@ window.addEventListener("load",function(){
     var posY =0;
     image.addEventListener("load", function(){
     //ctx.drawImage(image,0,0);
-    setInterval(loop,180 );
+    setInterval(loop,195 );
     
     }, false)
 
