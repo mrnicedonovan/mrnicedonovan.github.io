@@ -29,3 +29,40 @@ if (window.addEventListener && fadeInPage.prprt) {
     window.addEventListener('load', fadeInPage, false);
 }
 
+window.addEventListener("load",function(){
+    var canvas = document.getElementById("canvas");
+    var ctx = canvas.getContext("2d");
+    
+    var image = new Image();
+    image.src = "Tanks_sheetss.png";
+    
+    var numberOnRow = 9;
+    var numberOnColumn = 3;
+    var numberTotal = 23;
+    var counter = 0;
+    
+    var sx, sy, sw, sh;
+    var nStart = 0;
+    var posX = 0;
+    var posY =0;
+    image.addEventListener("load", function(){
+    //ctx.drawImage(image,0,0);
+    setInterval(loop,180 );
+    
+    }, false)
+
+    function loop(){
+        sw = image.width/numberOnRow;
+        sh = image.height/numberOnColumn;
+        sx = (counter%numberOnRow)*sw;
+        sy= Math.floor(counter/numberOnRow)*sh;
+            
+        ctx.clearRect(0,0,960,540);
+        ctx.drawImage(image,sx,sy,sw,sh,posX,posY,sw,sh);
+        
+        counter++
+        if(counter > nStart + 18){
+        counter = nStart;
+        }
+    }                                        
+},false);

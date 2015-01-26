@@ -60,3 +60,8 @@ footer p {} #Extra {
 .link {
     margin-left: 10em;
 }
+#canvas {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
