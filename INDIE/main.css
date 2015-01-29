@@ -1,8 +1,9 @@
-body {
+body, a:hover {
     background-image: url(BG.jpg);
     background-size: cover;
     background-color: #226013;
-    overflow:hidden;
+    overflow:hidden
+    cursor: url(http://cur.cursors-4u.net/nature/nat-9/nat870.cur), progress !important;
 }
 #Main {
     font-family: 'Josefin Sans', sans-serif;
