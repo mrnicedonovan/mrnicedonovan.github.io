@@ -215,6 +215,7 @@ header .brand-name {
 }
 header .brand-name-subtext {
     font-size: 20px;
+    color: Black;
     line-height: 20px;
     font-weight: 300
 }
