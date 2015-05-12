@@ -68,7 +68,7 @@
 		
 	</div>
 		<div id="version">start versie </div>
-	<h2><br>Dungeons & Dragons. Back to Rivendel</h2>
+	<h2><br>Dungeons & Dragons. Back to Donotopia</h2>
 		<form id="form" method="GET" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" class="col-s-8">
 			 <input type = "text" name = "input"  autofocus placeholder = "<?php gollumSays($Gollum) ; ?>" >
 			 <input type = "submit"  id = "submit" name = "submit" value = "your command"> 
