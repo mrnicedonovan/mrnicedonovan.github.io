@@ -1,7 +1,9 @@
 h1, h2, h3, p {
 
 }
-
+audio{
+    display: none;
+}
 body {
     text-align: center;
     font-size: 65px;
