@@ -1,0 +1,41 @@
+.call-to-action {
+    padding: 100px 0;
+    text-align: center;
+    color: white;
+    background: no-repeat center center scroll;
+    background-color: @themeDark;
+    .background-cover;
+    span.quote {
+        font-size: 30px;
+        font-weight: 300;
+        line-height: 32px;
+        display: block;
+    }
+}
+
+@media(min-width:768px) {
+    .call-to-action {
+        padding: 150px 0;
+        background-attachment: scroll;
+        span.quote {
+            font-size: 36px;
+            line-height: 38px;
+        }
+    }
+}
+
+@media(min-width:992px) {
+    .call-to-action {
+        padding: 300px 0;
+        span.quote {
+            font-size: 40px;
+            line-height: 42px;
+        }
+    }
+}
+
+@media(min-width:1025px) {
+    .call-to-action {
+        background-attachment: fixed;
+    }
+}
