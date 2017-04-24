@@ -45,6 +45,8 @@ a.text-primary:focus {
 }
 .bg-inverse {
   background-color: #222 !important;
+  background-image: url("banner.png");
+  background-size: contain;
 }
 .owl-carousel.owl-theme .owl-controls {
   margin-top: 0;
@@ -232,6 +234,8 @@ h6 {
   #mainNav.navbar-shrink {
     padding: 5px 0;
     background-color: #222;
+    background-image: url(banner.png);
+    background-size: cover;
   }
   #mainNav .navbar-brand img {
     height: 50px;
@@ -264,19 +268,20 @@ header.masthead {
   background-size: cover;
 }
 header.masthead .masthead-img {
-  max-width: 150px;
-  max-height: 150px;
+  max-width: 200px;
+  max-height: 200px;
 }
 header.masthead .masthead-title {
   font-size: 4rem;
   line-height: 4rem;
   font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 900;
+  font-weight: 800;
   text-transform: uppercase;
 }
 header.masthead .masthead-subtitle {
   font-size: 1.5rem;
   line-height: 1.5rem;
+  font-weight: 350;
 }
 header.masthead .scroll-down {
   position: absolute;
@@ -853,6 +858,8 @@ form .row:first-child .floating-label-form-group {
   border: 0;
   border-radius: 0;
   background-color: #222;
+  background-image: url(banner.png);
+  background-size: contain;
 }
 .btn-full-width:hover {
   color: white;
