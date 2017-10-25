@@ -78,7 +78,7 @@ body a:hover{
 }
 .header {
     padding: 14px 0;
-    background: #212121;
+    background: #0047ab;
 }
 .header-middle{
 	float:left;
@@ -154,7 +154,7 @@ body a:hover{
     background: none;
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
-    color: #555;
+    color: #0047ab;
     background: none;
 }
 .navbar-nav > li {
@@ -200,7 +200,7 @@ body a:hover{
 	position: absolute;
 	z-index: 2;
 	overflow: hidden;
-	color: navy;
+	color: #0047ab;
 	white-space: nowrap;
 	width: 0%;
 	-webkit-transition: width 0.4s 0.3s;
@@ -297,12 +297,12 @@ body a:hover{
 	transition: transform 0.4s cubic-bezier(0.22, 0.61, 0.36, 1);
 }
 .menu--shylock .menu__link::before {
-    background: navy;
+    background: #0047ab;
 	-webkit-transition-delay: 0.4s;
 	transition-delay: 0.4s;
 }
 .menu--shylock .menu__link::after {
-    background: navy;
+    background: #0047ab;
 }
 a.menu__link {
     color: #fff !important;
@@ -525,13 +525,13 @@ left:46%;
 .slider-top h1{
 	font-weight:700;
 	font-size:48px;
-	color:#010101;
+	color:#0047ab;
 }
 .slider-top p{
 	font-weight:400;
 	font-size:20px;
 	padding:1em 7em;
-	color:#010101;
+	color:#0047ab;
 }
 .slider-top ul.social-slide{
 	display:inline-flex;
@@ -579,7 +579,7 @@ ul.social-slide li i.mac{
   -ms-border-radius: 30px;
 }
 .callbacks_here a:after{
-	background: navy;	
+	background: #0047ab;	
 }
 a.callbacks_nav.callbacks2_nav.prev {
 background: transparent url("../images/2.png") no-repeat left top;
@@ -626,7 +626,7 @@ top: 9%;
   left: 0;
   right: 0;
   bottom: 0;
-  background:navy;
+  background: #0047ab;
   -webkit-transform: scale(0);
   transform: scale(0);
   -webkit-transition-property: transform;
@@ -676,7 +676,7 @@ top: 9%;
 h3.title{
 	text-align:center;
 	font-size:36px;
-	color:navy;
+	color: #0047ab;
 	margin-bottom:55px;
 }
 h3.title span{
@@ -699,7 +699,7 @@ p.con-para{
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  background: navy;
+  background: #0047ab;
   margin: 0 auto;
   text-align: center;
   position: relative;	
@@ -757,7 +757,7 @@ p.con-para{
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background:navy;
+  background: #0047ab;
   position: absolute;
   top: 0;
   left: 0;
@@ -789,7 +789,7 @@ p.con-para{
 	margin-top:25px;
 }
 .wel-grid:nth-child(2) h4,.wel-grid:nth-child(4) h4  {
-color:navy;	
+color: #0047ab;	
 }
 .btm-clr4 span,.btm-clr1 span ,.btm-clr3 span {
     padding: 0px 9px;
@@ -836,7 +836,7 @@ color:navy;
 /*-- content-bot --*/
 .content-bott{
 	padding:100px 0;
-	background:navy;
+	background: #0047ab;
 	border-top:1px solid #dedede;
 	border-bottom:1px solid #dedede;
 }
@@ -852,7 +852,7 @@ width: 73%;
 .services-right h4{
 margin:0px 0 0 0;
 font-size:20px;
-color: #D4AF37;
+color: #0047ab;
 }
 .services-right p{
 margin:15px 0 0 0;
@@ -1157,10 +1157,10 @@ background: url(../images/themes1.png) no-repeat -0px -0px;
     min-height: 195px;	
 }
 .treat-right span {
-    color: navy;
+    color: #0047ab;
     font-size: 22px;
     padding: 26px 26px;
-    border: 1px solid navy;
+    border: 1px solid #0047ab;
     border-radius: 100%;
 }
 .treat-right {
@@ -1185,7 +1185,7 @@ background: url(../images/themes1.png) no-repeat -0px -0px;
 }
 .treat-icon h4,.treat-icon1 h4 {
     font-size: 24px;
-    color: #D4AF37;
+    color: #0047ab;
     margin: 16px 0;
 }
 .treat-icon p,.treat-icon1 p {
@@ -1194,7 +1194,7 @@ background: url(../images/themes1.png) no-repeat -0px -0px;
     font-size: 14px;
 }
 .treat-right2 span {
-    color: #0cbbc8;
+    color: #0047ab;
     font-size: 22px;
     padding: 26px 26px;
     border: 1px solid #0cbbc8;
@@ -1258,10 +1258,10 @@ background: url(../images/themes1.png) no-repeat -0px -0px;
 	transition:.5s all;
 }
 .contact-list li a:hover{
-	color:#0cbbc8;
+	color:#0047ab;
 }
 .contact-list li span{
-	color:navy;
+	color: #0047ab;
 	left: -1em;
 }
 .contact-right form {
@@ -1305,7 +1305,7 @@ background: url(../images/themes1.png) no-repeat -0px -0px;
     color: #fff;
     letter-spacing: 1px;
     outline: none;
-    background:#D4AF37;
+    background:#0047ab;
     transition: 0.5s all ease;
     -webkit-transition: 0.5s all ease;
     -moz-transition: 0.5s all ease;
@@ -1326,7 +1326,7 @@ p.copy-right a{
 	text-decoration:none;
 }
 p.copy-right a:hover{
-	color:#D4AF37;
+	color:#0047ab;
 }
 .icons-list li{
 	list-style-type:none;
@@ -1368,7 +1368,7 @@ p.copy-right a:hover{
     padding: 2px 4px;
     font-size: 12px;
     border-radius: 2px;
-    background: #D4AF37;
+    background: #0047ab;
     visibility: hidden;
     opacity: 0;
     -o-transition: all .5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
@@ -1393,7 +1393,7 @@ p.copy-right a:hover{
     height: 0;
     border-left: 5px solid transparent;
     border-right: 5px solid transparent;
-    border-top: 5px solid #D4AF37;
+    border-top: 5px solid #0047ab;
     position: absolute;
     bottom: -4px;
     left: 27px;
@@ -1413,7 +1413,7 @@ p.copy-right a:hover{
     opacity: 1;
 }
 .contact-left h2 {
-    color: #D4AF37;
+    color: #0047ab;
     margin-bottom: 16px;
     font-size: 24px;
 }
@@ -1425,7 +1425,7 @@ p.copy-right a:hover{
 
 
 .col-bottom h4{
-    color: #D4AF37;
+    color: #0047ab;
     font-size: 28px;
 }
 .col-bottom p {
@@ -1501,7 +1501,7 @@ p.copy-right a:hover{
     top: 57px;
     -webkit-transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
     transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
-    color: #D4AF37;
+    color: #0047ab;
     font-size: 32px;
 }
 .bott-img .description {
@@ -1766,7 +1766,7 @@ line-height:1.8em;
 }
 .bars {
   margin-bottom: 0.8em;
-    color: #D4AF37;
+    color: #0047ab;
 }
 li.list-group-item1 {
   line-height: 2.5em;
@@ -1781,11 +1781,11 @@ ol {
   margin-bottom: 20px;
 }
 .breadcrumb {
-    background-color: #2D2D2D;
+    background-color: #0047ab;
 }
 .breadcrumb li a {
     font-size: 16px;
-    color: #D4AF37;
+    color: #0047ab;
 }
 .breadcrumb > .active {
     color: #fff;
@@ -1822,11 +1822,11 @@ ol {
 }
 .contact-grid1 i {
     font-size: 30px;
-    color: navy;
+    color: #0047ab;
 }
 .contact-grid1 {
     background: #f7f7f7;
-    border: 1px solid navy;
+    border: 1px solid #0047ab;
     padding: 45px 0;
 }
 .contact-grids {
@@ -1897,7 +1897,7 @@ ol {
     background: rgba(0, 0, 0, 0.88);
 }
 .lb-overlay a.lb-close {
-    background: #D4AF37;
+    background: #0047ab;
 }
 /* Common style */
 .grid figure {
